@@ -1,0 +1,3 @@
+﻿CREATE USER [sa_copy]
+  WITHOUT LOGIN
+GO
